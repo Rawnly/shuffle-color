@@ -1,21 +1,21 @@
 {
-  "name": "appname",
+  "name": "shuffle-color",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get randomic colors",
   "main": "Gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webeproject/trammer.git"
+    "url": "git+https://github.com/Rawnly/shuffle-color.git"
   },
   "author": "WeBe © 2016",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/webeproject/appname/issues"
+    "url": "https://github.com/Rawnly/shuffle-color/issues"
   },
-  "homepage": "https://github.com/webeproject/appname#readme",
+  "homepage": "https://github.com/Rawnly/shuffle-color#readme",
   "devDependencies": {
     "browser-sync": "^2.16.0",
     "chalk": "^1.1.3",
